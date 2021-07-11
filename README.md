@@ -51,6 +51,14 @@ Here I'll be explaining the JSON Keys from above.
 - `SwapsFrom` is the Skin/Item the item will Swap From. This is the item the player needs in their account
 - `SwapsTo` is the Skin/Item the item will Swap To. This is the item you want to have
 - `FromImage` is the [imgur](https://imgur.com/upload) image url of the item it swaps from.The url is cut off so it's just the end. To get this follow [this Tutorial](https://youtu.be/WHN877B_cq0)
+
+The imgur url can either be in one of the following formats:
+- `https://i.imgur.com/Z6tPcSd.png`
+- `Z6tPcSd.png`
+
+The second one is recommend because it makes the json filesize smaller but choose whichever one you prefer
+
+
 - `ToImage` is the imgur image url of the icon it swaps to.
 - `Note` This is a Note about your item. You can make this something like "Made by Kye#5000" or "This is the default style". A note looks like this:
 
