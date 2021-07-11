@@ -1,0 +1,23 @@
+{
+	"SwapsFrom": "",
+	"SwapsTo": "",
+	"FromImage": "",
+	"ToImage": "",
+	"Note": "",
+	"Asset": [
+		{
+			"Search": [
+				"Search1",
+				"Search2",
+				"Search3"
+			],
+			"Replace": [
+				"Replace1",
+				"Replace2",
+				"Replace3"
+			],
+			"AssetPath": "",
+			"UcasFile": ""
+		}
+	]
+}
