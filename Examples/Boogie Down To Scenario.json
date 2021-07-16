@@ -1,0 +1,21 @@
+{
+  "Type": "Emotes",
+  "SwapsFrom": "Boogie Down",
+  "SwapsTo": "Scenario",
+  "FromImage": "nvY2pEW.png",
+  "ToImage": "gKw7vt9.png",
+  "Asset": [
+    {
+      "Search": [
+        "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+        "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF"
+      ],
+      "Replace": [
+        "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M",
+        "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+      ],
+      "AssetPath": "/Game/Athena/Items/Cosmetics/Dances/EID_BoogieDown",
+      "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
+    }
+  ]
+}
