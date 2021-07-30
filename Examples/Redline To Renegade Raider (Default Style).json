@@ -1,0 +1,63 @@
+{
+    "SwapsFrom": "Redline",
+    "SwapsTo": "Renegade Raider (Default)",
+    "FromImage": "oWWcysx.png",
+    "ToImage": "r0pvItl.png",
+    "ShowMain": false,
+    "Asset": [
+        {
+            "Search": [
+                "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack",
+                "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack",
+                "/Game/Accessories/Hats/Mesh/Female_Outlander_06",
+                "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06"
+            ],
+            "Replace": [
+                "/Game/Accessories/Hats/Materials/Female_Commando_07_V01",
+                "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01",
+                "/Game/Accessories/Hats/Mesh/Female_Commando_08",
+                "/Game/Accessories/Hats/Mesh/Female_Commando_08.Female_Commando_08"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_StreetRacer",
+            "UcasFile": "pakchunk10_s5-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS_StreetRacerBlack",
+                "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS_StreetRacerBlack.F_Med_HIS_StreetRacerBlack",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01.F_MED_StreetRacerBlack_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_Ponytail.F_MED_Commando_Hair_Ponytail"
+            ],
+            "Replace": [
+                "/Game/Characters/CharacterColorSwatches/Skin/F_Med_ASN_Sarah",
+                "/Game/Characters/CharacterColorSwatches/Skin/F_Med_ASN_Sarah.F_Med_ASN_Sarah",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetRacer",
+            "UcasFile": "pakchunk10_s5-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
+            ],
+            "Replace": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+            ],
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+            "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
+        }
+    ]
+}
