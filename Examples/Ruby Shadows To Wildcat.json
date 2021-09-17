@@ -1,0 +1,64 @@
+{
+    "SwapsFrom": "Ruby Shadows",
+    "SwapsTo": "Wildcat",
+    "FromImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/smallicon.png",
+    "ToImage": "https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/smallicon.png",
+    "Asset": [
+        {
+            "Search": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C"
+            ],
+            "Replace": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Materials/F_MED_Wild_Cat_Body",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Materials/F_MED_Wild_Cat_Body.F_MED_Wild_Cat_Body",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/F_MED_Wild_Cat",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/F_MED_Wild_Cat.F_MED_Wild_Cat",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/F_MED_Wild_Cat_AnimBP",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/F_MED_Wild_Cat_AnimBP.F_MED_Wild_Cat_AnimBP_C"
+            ],
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01"
+            ],
+            "Replace": [
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Wild_Cat_Head/Materials/F_MED_Wild_Cat_Head",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Wild_Cat_Head/Materials/F_MED_Wild_Cat_Head.F_MED_Wild_Cat_Head",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Wild_Cat_Head/Meshes/F_MED_Wild_Cat_Head",
+                "/Game/Characters/Player/Female/Medium/Heads/F_MED_Wild_Cat_Head/Meshes/F_MED_Wild_Cat_Head.F_MED_Wild_Cat_Head"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C"
+            ],
+            "Replace": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Materials/F_MED_Wild_Cat_FaceAcc",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Materials/F_MED_Wild_Cat_FaceAcc.F_MED_Wild_Cat_FaceAcc",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/Parts/F_MED_Wild_Cat",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/Parts/F_MED_Wild_Cat.F_MED_Wild_Cat",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/Parts/F_MED_Wild_Cat_AnimBP",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Wild_Cat/Meshes/Parts/F_MED_Wild_Cat_AnimBP.F_MED_Wild_Cat_AnimBP_C"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        }
+    ]
+}
