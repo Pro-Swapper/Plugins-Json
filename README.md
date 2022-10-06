@@ -39,8 +39,7 @@ Example Pro Swapper Plugin:
 			"Replace": [
 				"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_05/Materials/F_MED_Commando_Body_BR05.F_MED_Commando_Body_BR05"
 			],
-			"AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_015_Athena_Body",
-			"UcasFile": "pakchunk10_s4-WindowsClient.ucas"
+			"AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_015_Athena_Body"
 		}
 	]
 }
@@ -67,7 +66,7 @@ The second one is recommend because it makes the json filesize smaller but choos
 Here comes the tricky part, the actual swapping mechanic.
 
 Inside the `Asset` key is an array of Assets.
-An asset is a file inside Fortnite. For this example we're using, Assault Trooper To Sparkle Specialist only needs to change the body. Our `AssetPath` is set to `/Game/Athena/Heroes/Meshes/Bodies/CP_015_Athena_Body` because that's where the CharacterPart for Assault Trooper's is. `UcasFile` is where the `AssetPath` is located. To find where the `UcasFile` is, use [FModel](https://github.com/iAmAsval/FModel) to find which Ucas file your `AssetPath` is in. For a full in depth Tutorial on FModel watch [@iFireMonkey](https://twitter.com/iFireMonkey)'s [FModel Tutorial](https://youtu.be/ZD2zqOyw7ZI).
+An asset is a file inside Fortnite. For this example we're using, Assault Trooper To Sparkle Specialist only needs to change the body. Our `AssetPath` is set to `/Game/Athena/Heroes/Meshes/Bodies/CP_015_Athena_Body` because that's where the CharacterPart for Assault Trooper's is. For a full in depth Tutorial on FModel watch [@iFireMonkey](https://twitter.com/iFireMonkey)'s [FModel Tutorial](https://youtu.be/ZD2zqOyw7ZI).
 
 - `Search` is the string you want to search
 - `Replace` is the string you want to replace
